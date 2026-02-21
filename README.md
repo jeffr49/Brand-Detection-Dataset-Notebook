@@ -36,7 +36,6 @@ Images were obtained through a combination of author-collected supermarket photo
 
 ## Repository Contents
 ├── Brand_Detection_Notebook.ipynb  
-├── best_model.pth (optional output)  
 ├── map_plot.png (generated)  
 ├── per_class_ap.png (generated)  
 └── README.md  
