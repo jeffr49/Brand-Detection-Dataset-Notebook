@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1163455168.svg)](https://doi.org/10.5281/zenodo.18725821)
 # Brand-Detection-Dataset-Notebook
 
 ## Overview
